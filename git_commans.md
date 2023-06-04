@@ -18,7 +18,7 @@ git commit: Este comando se usa para Registrar los cambios en el repositorio.
 
 git push: Este comando se usa para Cargar o Actualizar contenido del repositorio local a un repositorio remoto junto con los objetos asociados.
 
-git merge: Este comando se usa para Unir dos o más historiales de desarrollo (ramas).
+git merge: Este comando se usa para Unir dos o más historiales de desarrollo (ramas). 
 
 // Tomado de:
                 https://git-scm.com/docs
